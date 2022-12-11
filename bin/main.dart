@@ -79,5 +79,5 @@ void main() {
   const double pi = 3.14592653589793;
   print(pi);
 
-  // amar hocce na
+  // tomorrow will practice pre-recording video
 }
