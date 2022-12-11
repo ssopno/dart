@@ -78,4 +78,6 @@ void main() {
 //////constant
   const double pi = 3.14592653589793;
   print(pi);
+
+  // something practice
 }
